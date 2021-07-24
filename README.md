@@ -12,7 +12,7 @@ Analysed the most expensive and cheapest places of the world.
 <img src="Images/Least Expensive countries.png" width="600px"  style="text-items:center"><br><br>
 
 <img src="Images/Most expensive countries.png" width="600px"  style="text-items:center"><br><br>
-There area various parameters based on which the cost of living depends and their correlation plays a very important role in determining if that place in appropriate or not.
+There are various parameters based on which the cost of living depends and their correlation plays a very important role in determining if that place in appropriate or not.
 
 Used Nominatim & Rate Limiter from  Geopy library for extracting Latitude and Longitude of all locations.
 <br><br>
